@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": [
+    "File I/O + key management",
+    "Core 3DES encrypt/decrypt engine",
+    "Automated test suite (7 tests)",
+    "Swing GUI (Encrypt tab + Decrypt tab + About)",
+    "src"
+  ],
+  "java.project.outputPath": "out"
+}
